@@ -4,8 +4,8 @@
 
 ## 진행방법
 1. 저장소 fork 
-   2. 자신의 환경에 맞게 클론
-   3. 예) 인텔리제이 터미널에서 `git clone {https code}`
+   1. 자신의 환경에 맞게 클론
+   2. 예) 인텔리제이 터미널에서 `git clone {https code}`
 2. 브랜치 설정
    1. `git checkout -b 브랜치이름` 예) `git checkout -b fortuneman`
 3. 설정된 브랜치에서 자율 주제 push
