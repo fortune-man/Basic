@@ -1,0 +1,6 @@
+- [참고](https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html)
+- LIFO : 가장 최근 추가한 아이템을 가장 먼저 제거
+    - pop() : 가장 위에 있는 아이템 제거
+    - push(item) : item 하나를 스택의 가장 윗 부분에 추가
+    - peek() : 스택의 가장 위에 있는 항목 반환
+    - isEmpty() : 스택이 비어있을 때 true 반환
